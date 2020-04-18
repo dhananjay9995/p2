@@ -1,0 +1,42 @@
+h1
+{
+	background-color: pink;
+	color: red;
+	text-align: center;
+}
+div
+{
+	background-color: teal;
+	width: 200px;
+	height: 300px;
+	margin: 50px;
+	padding: 20px;
+	font-family: timesnewroman;
+	font-size: 20px;
+	font-weight: bold ;
+}
+th
+{
+	color: solid black;
+}
+td
+{
+	color: purple;
+}
+table
+{
+	border: 3px solid black;
+	border-collapse: collapse;
+	width: 40%;	
+
+}
+th,td
+{
+	border : 2px solid black;
+	padding: 5px;
+	text-align: center;
+}
+th
+{
+	background-color: lightgrey;
+}
